@@ -1,0 +1,15 @@
+Overview
+We’ll build an image classification model using the CIFAR-10 dataset, which contains 60,000 32x32 color images in 10 classes. We'll use TensorFlow and Keras for this project.
+
+cifar10-image-classification/
+├── data/
+│   ├── cifar10/
+├── notebooks/
+│   └── exploration.ipynb
+├── src/
+│   ├── data_preprocessing.py
+│   ├── model.py
+│   └── train.py
+├── requirements.txt
+├── README.md
+└── .gitignore
